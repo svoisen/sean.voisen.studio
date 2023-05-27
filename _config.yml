@@ -1,0 +1,10 @@
+title: Sean Voisen — Studio
+description: Generative art and design.
+url: https://sean.voisen.studio
+twitter_username: svoisen
+github_username:  svoisen
+baseurl: ""
+permalink: pretty
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
